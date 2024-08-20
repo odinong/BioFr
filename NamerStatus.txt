@@ -1,1 +1,1 @@
-<color=yellow>Currently HalfDetcted/OnReport</color>
+<color=yellow>Currently DetectedOnReport</color>
