@@ -1,2 +1,1 @@
-chase that bag.
-\nTESTLINE
+chase that bag.\nTESTLINE
