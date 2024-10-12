@@ -1,1 +1,1 @@
-<color=yellow>Currently Might Be Detected?</color>
+<color=red>BROKEN/NOT WORKING/DETECTED: JOIN OUR DISCORD FOR UPDATES! discord.gg/9ku2XQq7Wr</color>
