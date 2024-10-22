@@ -1,0 +1,7 @@
+Version: 1.2\n
+Updates:\n
+[+] ADDED: New GUI\n
+[+] ADDED: New PlayerList\n
+[-] REMOVED: Old GUI\n
+[-] REMOVED: Soundboard (its overused)\n
+[/] FIXED: Zero Grav All SOMETIMES Kicking You
