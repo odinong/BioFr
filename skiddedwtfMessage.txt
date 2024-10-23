@@ -1,11 +1,4 @@
-Version: 1.2
+Version: 1.2.1
 Updates:
-[+] ADDED: New GUI
-[+] ADDED: New PlayerList
-[+] ADDED: Optional External
-[+] ADDED: Very cool looking minimize window
-[-] REMOVED: Old GUI
-[-] REMOVED: Soundboard (its overused)
-[-] REMOVED: A few mods (I didn't want to readd them)
-[-] REMOVED: Most detected things
-[/] FIXED: Zero Grav All SOMETIMES Kicking You
+[+] ADDED: WIP PlayerTracker (Webhook isnt changeable, it goes to my server)
+[/] FIXED: PlayerList Lagging You
