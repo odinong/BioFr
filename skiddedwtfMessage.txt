@@ -1,4 +1,4 @@
-Version: 1.2.1
+Version: 2
 Updates:
-[+] ADDED: WIP PlayerTracker (Webhook isnt changeable, it goes to my server)
-[/] FIXED: PlayerList Lagging You
+[+] ADDED: Menu
+[-] REMOVED: Halloween Mods
