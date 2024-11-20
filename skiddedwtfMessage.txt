@@ -1,4 +1,6 @@
-Version: 2
+Version: 2.1
 Updates:
-[+] ADDED: Menu
-[-] REMOVED: Halloween Mods
+[+] ADDED: Block Mods
+[+] ADDED: Log All Blocks Button That Saves Every Active Block
+[+] ADDED: AntiLag [works against shibas lagger]
+[-] REMOVED: External Compatability
